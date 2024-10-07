@@ -1,0 +1,15 @@
+print ("Es war einmal ein mutiges und kluges Eichhörnchen namens Svenja,das in einem wunderschönen Wald lebte.")
+print ("Svenja war im ganzen Wald für ihr schnelles Denken und ihre Tapferkeit bekannt.")
+print ("Und ebenso war sie immer bereit, ihren Freunden in der Not zu helfen.")
+print ("Eines Tages war Svenja unterwegs, um Nüsse für den Winter zu sammeln, als sie ein seltsames Geräusch hörte, das von einem nahen Baum kam.")
+print ("Sie kletterte auf den Baum, um nachzusehen, was da los war.")
+print ("Dann sah sie eine Gruppe fieser Vögel, die einen kleinen, hilflosen Vogel ärgerten.")
+print ("Svenja war sofort klar, dass sie eingreifen musste.")
+print ("Also fasste sie schnell einen Plan.")
+print ("Sie sammelte so viele Nüsse ein, wie sie tragen konnte und warf die Nüsse auf die fiesen Vögel.")
+print ("Sie zielte so gut, dass die meisten Nüsse die fiesen Vögel direkt am Kopf trafen.")
+print ("Die fiesen Vögel waren von dem plötzlichen Angriff überrascht und flogen verärgert davon.")
+print ("Der kleine Vogel war Svenja dankbar, dass sie ihn vor den fiesen Vögel gerettet hatte und bedankte sich mit einem fröhlichen Zwitschern.")
+print ("Von diesem Tag an war Svenja als das mutigste und freundlichste Eichhörnchen des Waldes bekannt und sie half weiterhin allen, die in Not waren, wann immer sie konnte.")
+
+
